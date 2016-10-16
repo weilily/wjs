@@ -366,5 +366,6 @@ fieldset[disabled] .wjs_nav .btn-link:focus {
     .wjs_product .nav-tabs.nav-justified > .active > a:hover,
     .wjs_product .nav-tabs.nav-justified > .active > a:focus {
         border-bottom-color: #fff;
+
     }
 }
